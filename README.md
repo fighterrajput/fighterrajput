@@ -18,4 +18,5 @@
 
 </div>
 
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="50"/>
 
