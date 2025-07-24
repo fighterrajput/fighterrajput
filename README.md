@@ -18,14 +18,6 @@
 
 </div>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/fieri.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/sassyparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/nyanparrot.gif" width="60"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="60"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/fieri.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/sassyparrot.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/nyanparrot.gif" width="60"/> <img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="60"/>
+
 
